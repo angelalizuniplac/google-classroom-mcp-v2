@@ -269,6 +269,4 @@ tests/
 
 ## Ideias para o futuro
 
-- Execução de notebooks e dos testes `pytest` da professora em um contêiner Docker sem rede (hoje o código do aluno nunca é executado).
-- Leitura de repositórios do GitLab por API.
-- Comentário privado automatizado pelo navegador, com revisão da professora.
+- Executar como rotina ao aluno postar sua atividades, ter feedbacks automaticamente. Não substitui a revisão do professor, mas ajuda o aluno a corrigir possíveis problemas encontrados.    
