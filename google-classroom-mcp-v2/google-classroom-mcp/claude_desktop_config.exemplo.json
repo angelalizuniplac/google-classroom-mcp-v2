@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "google-classroom": {
+      "command": "python",
+      "args": ["/COLOQUE_O_CAMINHO_REAL/google-classroom-mcp/server.py"],
+      "env": {
+        "GITHUB_TOKEN": "OPCIONAL_token_fine_grained_com_Contents_Read"
+      }
+    }
+  }
+}

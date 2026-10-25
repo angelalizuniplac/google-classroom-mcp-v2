@@ -1,0 +1,13 @@
+# O mcp 2.x removeu a API usada aqui: mantenha abaixo da versao 2.
+mcp>=1.2,<2
+google-api-python-client>=2.100.0
+google-auth-httplib2>=0.2.0
+google-auth-oauthlib>=1.1.0
+pypdf>=4.0.0
+python-docx>=1.1.0
+openpyxl>=3.1.0
+httpx>=0.25.0
+Pillow>=10.0.0
+# Opcionais (melhoram a leitura/analise; o MCP funciona sem eles):
+#   pypdfium2   -> renderiza paginas de PDF escaneado como imagem
+#   ruff        -> avisos de qualidade em codigo Python (checar_boas_praticas)
